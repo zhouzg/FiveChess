@@ -6,3 +6,4 @@ VS2017，控制台输出字符显示棋盘。共定义的6个class，即棋子类（Chess）、棋盘类（Che
 
 设计思考：https://blog.csdn.net/DreamLike_zzg/article/details/86749069?spm=1001.2014.3001.5502
 
+![运行效果](https://github.com/zhouzg/FiveChess/blob/master/show.png)
