@@ -1,0 +1,15 @@
+﻿  AI.cpp
+e:\fivechess\my_fivechess_v3\my_fivechess_v0\ai.h(25): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ChessBoard.cpp
+  Displayer.cpp
+e:\fivechess\my_fivechess_v3\my_fivechess_v0\displayer.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+e:\fivechess\my_fivechess_v3\my_fivechess_v0\displayer.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+  Game.cpp
+e:\fivechess\my_fivechess_v3\my_fivechess_v0\ai.h(25): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Human.cpp
+  Judge.cpp
+  main.cpp
+e:\fivechess\my_fivechess_v3\my_fivechess_v0\ai.h(25): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Player.cpp
+  正在生成代码...
+  my_fivechess_v0.vcxproj -> E:\FiveChess\my_fivechess_v3\Debug\my_fivechess_v0.exe
